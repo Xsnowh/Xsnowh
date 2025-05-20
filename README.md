@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Xsnowh
-- 👀 I’m interested in gmae & tech
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in game & tech
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on  teach me everything you know
+- 📫 How to reach me tg ID : @sikwor1d
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: idk
 
 <!---
 Xsnowh/Xsnowh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
