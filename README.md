@@ -2,7 +2,7 @@
 - 👀 I’m interested in game & tech
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on  teach me everything you know
-- 📫 How to reach me tg ID : @sikwor1d
+- 📫 How to reach me tg ID : @Xsnowh
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: idk
 
